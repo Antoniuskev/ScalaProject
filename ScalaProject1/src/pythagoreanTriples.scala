@@ -1,4 +1,7 @@
 object pythagoreanTriples {
+  
+  // Create functions to find the list of pythagorean triples
+  
   def main (args: Array[String]){
      // Pythagorean Triples
      println("Please enter a value for the maximum c")

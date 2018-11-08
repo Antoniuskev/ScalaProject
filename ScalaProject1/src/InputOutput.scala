@@ -1,4 +1,5 @@
 
+// Create functions to display output and input
 
 object InputOutput {
   def main(args: Array[String]) {

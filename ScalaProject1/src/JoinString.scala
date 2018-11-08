@@ -1,6 +1,8 @@
 
 import scala.collection.mutable.ArrayBuffer
 
+// Create functions to join String
+
 object JoinString {
    def main(args: Array[String]) {
       println("Please enter a value for the String separator: ")
